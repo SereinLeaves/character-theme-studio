@@ -1,0 +1,30 @@
+/* All Tessalume presets: clearer main artwork, without corner cards or gutters. */
+body.theme-light {
+  --tl-reading-veil: linear-gradient(90deg,
+    color-mix(in srgb, var(--tl-bg) 86%, transparent) 0%,
+    color-mix(in srgb, var(--tl-bg) 70%, transparent) 32%,
+    color-mix(in srgb, var(--tl-bg) 42%, transparent) 60%,
+    color-mix(in srgb, var(--tl-bg) 24%, transparent) 100%);
+}
+body.theme-dark {
+  --tl-reading-veil: linear-gradient(90deg,
+    color-mix(in srgb, var(--tl-bg) 94%, transparent) 0%,
+    color-mix(in srgb, var(--tl-bg) 82%, transparent) 32%,
+    color-mix(in srgb, var(--tl-bg) 58%, transparent) 60%,
+    color-mix(in srgb, var(--tl-bg) 38%, transparent) 100%);
+}
+.workspace-split.mod-root .workspace-leaf-content[data-type="markdown"] {
+  background-image: var(--tl-motif), var(--tl-reading-veil), var(--tl-chat) !important;
+}
+.workspace-split.mod-root .workspace-leaf-content[data-type="markdown"]::before,
+.workspace-split.mod-root .workspace-leaf-content[data-type="markdown"]::after,
+.workspace-split.mod-root .workspace-leaf-content[data-type="markdown"] > .view-content::before,
+.workspace-split.mod-root .workspace-leaf-content[data-type="markdown"] > .view-content::after {
+  content: none !important;
+  display: none !important;
+  animation: none !important;
+}
+.workspace-split.mod-root .workspace-leaf-content[data-type="markdown"] :is(.markdown-preview-view, .cm-scroller) {
+  padding-left: 28px !important;
+  padding-right: 28px !important;
+}

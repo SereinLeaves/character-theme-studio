@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "tl-aemeath",
+      "name": "Tessalume·爱弥斯·星海远航",
+      "kind": "tessalume",
+      "snippet": "tl-aemeath",
+      "source": "外观配置/Tessalume·爱弥斯·星海远航/tl-aemeath.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-aemeath-light.webp",
+      "sourceSha256": "2dfbca40fa50a407ba0cd825bebd8155b8db74193cedf0f0fb340f3bb5910bb7",
+      "packagedSha256": "fb9f2bc5c2e2ffcea4eac9b0bd5b1a7f8130ffbd1bbdf981827056078b341976"
+    },
+    {
+      "id": "tl-cartethyia",
+      "name": "Tessalume·卡提希娅·风潮双冕",
+      "kind": "tessalume",
+      "snippet": "tl-cartethyia",
+      "source": "外观配置/Tessalume·卡提希娅·风潮双冕/tl-cartethyia.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-cartethyia-light.webp",
+      "sourceSha256": "379cddc1da04f78ba00ffc7a0517c52fbd4363721f50be467aed8dbbde181265",
+      "packagedSha256": "411489d361e3c3e42f44ebe55a887c5dc2e1bdad987002aa60882049a448982b"
+    },
+    {
+      "id": "tl-danya",
+      "name": "Tessalume·达妮娅·泡影虚阈",
+      "kind": "tessalume",
+      "snippet": "tl-danya",
+      "source": "外观配置/Tessalume·达妮娅·泡影虚阈/tl-danya.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-danya-light.webp",
+      "sourceSha256": "718625f6023eb7c973fdba2f875667724b642efee7052ae9dc1dc186931ec890",
+      "packagedSha256": "66a66c7061f503a90e92b87e0f8287f3b5db84170051eb49d6777b4b93266981"
+    },
+    {
+      "id": "tl-hiyuki",
+      "name": "Tessalume·绯雪·常世预见",
+      "kind": "tessalume",
+      "snippet": "tl-hiyuki",
+      "source": "外观配置/Tessalume·绯雪·常世预见/tl-hiyuki.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-hiyuki-light.webp",
+      "sourceSha256": "ae7d38e5a10f84b5bc4d300858e40e473bf973ed0fa787cafd7c97950a24e983",
+      "packagedSha256": "0834dbcfd70144fe543dc482e11d304a0339a0841ab230fe1df7fd5ec73fa1a7"
+    },
+    {
+      "id": "tl-iuno",
+      "name": "Tessalume·尤诺·月弦逆命",
+      "kind": "tessalume",
+      "snippet": "tl-iuno",
+      "source": "外观配置/Tessalume·尤诺·月弦逆命/tl-iuno.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-iuno-light.webp",
+      "sourceSha256": "8ae0de750f94b8e85b9eac07c135586d612b02f4960a797b1b950790fbfde73d",
+      "packagedSha256": "03eac413fd7ee4f80120f92e8716bc7a35c7ab6cc2a0e0c6534279d0fcafc763"
+    },
+    {
+      "id": "tl-mornye",
+      "name": "Tessalume·莫宁·初星穹镜",
+      "kind": "tessalume",
+      "snippet": "tl-mornye",
+      "source": "外观配置/Tessalume·莫宁·初星穹镜/tl-mornye.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-mornye-light.webp",
+      "sourceSha256": "8967ee57a527d6736efb084a5fdbc00e2225890b5d78dcf1ef5787196f85b321",
+      "packagedSha256": "008095420df278b4045fcaab26f64addef32cf21efb3fbe7c78b6c472a4a9788"
+    },
+    {
+      "id": "tl-qingxiao",
+      "name": "Tessalume·清宵·云门剑境",
+      "kind": "tessalume",
+      "snippet": "tl-qingxiao",
+      "source": "外观配置/Tessalume·清宵·云门剑境/tl-qingxiao.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-qingxiao-light.webp",
+      "sourceSha256": "ac7ba6a82a7a5de9759e1651aa351543b4de82a805bb6200e0bd534ceb2b24ff",
+      "packagedSha256": "a013806d934cf8d6a1eca1fc27a9dd568d6ca8aaf1a181a6b2f2c7dc758c38a9"
+    },
+    {
+      "id": "tl-shorekeeper",
+      "name": "Tessalume·守岸人·泰缇斯回响",
+      "kind": "tessalume",
+      "snippet": "tl-shorekeeper",
+      "source": "外观配置/Tessalume·守岸人·泰缇斯回响/tl-shorekeeper.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-shorekeeper-light.webp",
+      "sourceSha256": "749786d6eb6dfc0c99bebd87afd864da4de08fcb5cefd77d6d88be39e966c4b2",
+      "packagedSha256": "d3f8eb42266d3fbe458dc8ca00002e65120eb4c0ac1443993a387089a0729c4e"
+    },
+    {
+      "id": "tl-sigrika",
+      "name": "Tessalume·西格莉卡·语义昭日",
+      "kind": "tessalume",
+      "snippet": "tl-sigrika",
+      "source": "外观配置/Tessalume·西格莉卡·语义昭日/tl-sigrika.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-sigrika-light.webp",
+      "sourceSha256": "961204efc5bb16c25d8538ef95557f5a28203c70eff6a5299abf0b0492e49e5c",
+      "packagedSha256": "fc5475a2f35e4626aca5890e71f371a0a2208b4a36e0b6457302c7601018e9de"
+    },
+    {
+      "id": "tl-suisui",
+      "name": "Tessalume·穗穗·朝晖山水卷",
+      "kind": "tessalume",
+      "snippet": "tl-suisui",
+      "source": "外观配置/Tessalume·穗穗·朝晖山水卷/tl-suisui.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-suisui-light.webp",
+      "sourceSha256": "de75241a63b16a8685251effe7a5e439d1ba426c96f136933f2326b25d731cc7",
+      "packagedSha256": "9c32ecbc626a6d3995c8a6ee7acd60b9eb4b5f5f01177c183506008d8166c45c"
+    },
+    {
+      "id": "tl-xin",
+      "name": "Tessalume·心·朝月孤城",
+      "kind": "tessalume",
+      "snippet": "tl-xin",
+      "source": "外观配置/Tessalume·心·朝月孤城/tl-xin.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-xin-light.webp",
+      "sourceSha256": "4bb6cd67ca8756acc60feda2b0f3a3c1c092fd5507afaeb0db841e0751f00dbb",
+      "packagedSha256": "3b80561c19704819ce1782401d8724d717bd2885f27cb6ba926b7c2ef2a90d72"
+    },
+    {
+      "id": "tl-yangyang",
+      "name": "Tessalume·秧秧·苍翎远音",
+      "kind": "tessalume",
+      "snippet": "tl-yangyang",
+      "source": "外观配置/Tessalume·秧秧·苍翎远音/tl-yangyang.css",
+      "preview": "附件/预览/Tessalume-v2.2.0/tl-yangyang-light.webp",
+      "sourceSha256": "cd2629d40f9ad82c6997b7b1d5f2c7d6596a4a9a9764bd28c7e9c3f844f70891",
+      "packagedSha256": "64ceb12e57bbc00a3684264a193c4f89eec8da95ea1668f2dc24fc4758b01b90"
+    },
+    {
+      "id": "legacy-qingxiao",
+      "name": "原版·清宵·云岚琴心",
+      "kind": "legacy",
+      "prefix": "qx",
+      "snippet": "qx-qingxiao",
+      "source": "外观配置/清宵·云岚琴心/qx-qingxiao.css",
+      "sourceSha256": "3e7a57b50333c3a649759079053a534b1fd2d1621f27fb7327042cadb5d47d10",
+      "packagedSha256": "3e7a57b50333c3a649759079053a534b1fd2d1621f27fb7327042cadb5d47d10"
+    },
+    {
+      "id": "legacy-cantarella",
+      "name": "原版·坎特蕾拉·深海幻梦",
+      "kind": "legacy",
+      "prefix": "ct",
+      "snippet": "ct-cantarella",
+      "source": "外观配置/坎特蕾拉·深海幻梦/ct-cantarella.css",
+      "sourceSha256": "11f3c7456d7eeaa04386d5ae9c641a53c4c1200d1aa81582c11a865c0a89ddd4",
+      "packagedSha256": "11f3c7456d7eeaa04386d5ae9c641a53c4c1200d1aa81582c11a865c0a89ddd4"
+    },
+    {
+      "id": "legacy-aemeath",
+      "name": "原版·爱弥斯·鸣潮星海",
+      "kind": "legacy",
+      "prefix": "wb",
+      "snippet": "wu-aemeath",
+      "source": "外观配置/鸣潮·星海/wu-aemeath.css",
+      "sourceSha256": "1e9a87f6da09e5caa0b5aa847943a9e777913caccdfb85d9bddc0d76f14d00f3",
+      "packagedSha256": "1e9a87f6da09e5caa0b5aa847943a9e777913caccdfb85d9bddc0d76f14d00f3"
+    }
+  ],
+  "conflicts": [
+    "tl-aemeath",
+    "tl-cartethyia",
+    "tl-danya",
+    "tl-hiyuki",
+    "tl-iuno",
+    "tl-mornye",
+    "tl-qingxiao",
+    "tl-shorekeeper",
+    "tl-sigrika",
+    "tl-suisui",
+    "tl-xin",
+    "tl-yangyang",
+    "qx-qingxiao",
+    "ct-cantarella",
+    "wu-aemeath",
+    "auto-day-night",
+    "xy-xinyuehu",
+    "wbl-base",
+    "wbl-typography",
+    "wbl-blocks",
+    "wbl-ui",
+    "wbl-dataview",
+    "wbl-wallpaper"
+  ]
+}

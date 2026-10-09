@@ -1,0 +1,9 @@
+{
+  "id": "character-theme-studio",
+  "name": "角色主题工作室",
+  "version": "1.1.1",
+  "minAppVersion": "1.6.0",
+  "description": "本地管理 15 套角色主题，实时调节主图清晰度、阅读宽度、卡片与动效。",
+  "author": "Local vault customization",
+  "isDesktopOnly": true
+}
